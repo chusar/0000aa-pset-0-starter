@@ -5,8 +5,7 @@ assignment!
 
 Replace the below with your own build badges:
 
-[![Build Status](https://github.com/chusar/0000aa-pset-0-starter/workflows/CI/badge.svg?branch=master)](https://github.com/chusar/0000aa-pset-0-starter)
-
+![CI](https://github.com/chusar/0000aa-pset-0-starter/workflows/CI/badge.svg)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/aaaaa/maintainability)](https://codeclimate.com/repos/aaaaa/maintainability)
 
