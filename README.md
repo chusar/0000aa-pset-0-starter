@@ -5,7 +5,7 @@ assignment!
 
 Replace the below with your own build badges:
 
-https://travis-ci.com/chusar/0000aa-pset-0-starter.svg?branch=master&status=failed
+[![Build Status](https://travis-ci.com/chusar/0000aa-pset-0-starter.svg?branch=master)](https://travis-ci.com/chusar/0000aa-pset-0-starter)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/aaaaa/maintainability)](https://codeclimate.com/repos/aaaaa/maintainability)
 
