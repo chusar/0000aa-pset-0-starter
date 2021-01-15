@@ -5,7 +5,7 @@ assignment!
 
 Replace the below with your own build badges:
 
-![CI](https://github.com/chusar/0000aa-pset-0-starter/workflows/CI/badge.svg)
+https://travis-ci.com/chusar/0000aa-pset-0-starter.svg?branch=master
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/aaaaa/maintainability)](https://codeclimate.com/repos/aaaaa/maintainability)
 
